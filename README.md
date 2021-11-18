@@ -1,8 +1,8 @@
 # Rank_Based-Knowledge_Based-Recommendations
 
-For this notebook, we have a single task.  The task is that no matter the user, we need to provide a list of the recommendations based on simply the most popular items.
+We have a single task. The task is that no matter the user, we need to provide a list of the recommendations based on simply the most popular items.
 
-For this task, we will consider what is "most popular" based on the following criteria:
+We will consider what is "most popular" based on the following criteria:
 
 * A movie with the highest average rating is considered best
 * With ties, movies that have more ratings are better
